@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXT+zIbVTTpX20zutLFMclKVBnCGhIoVFa9ZvPQdiafmtrhqF+8hjROzDKhwqwX0X4uUUgH3TQghLjnIS5xG0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orti803786\\OneDrive - SIIGO SAS\\Documentos\\ASIGNACIONES\\Asignaciones2023\\CURSOS\\.Net\\SOLID C# .NET\\5-DependencyInversion\\Api\\DependencyInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orti803786\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\orti803786\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\orti803786\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\orti803786\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\orti803786\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\orti803786\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
